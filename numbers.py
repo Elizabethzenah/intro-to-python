@@ -1,0 +1,13 @@
+print(78+10)
+print(66/10)
+print(66*10)
+print(66-10)
+print(66**2)#power2
+print(66//2.2)
+print(66%4)
+print(10,11,13)
+print(6,"zenah","betty")
+print(10>5)
+print(10<5)
+print(10==5)
+#.gitignore
