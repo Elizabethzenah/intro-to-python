@@ -14,8 +14,7 @@ print(message.title())
 print(message.replace("doing",'going'))
 
 print(message)
-
-
+print(message.)
 
 
 
