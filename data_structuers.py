@@ -2,7 +2,7 @@
 # collection
 # list , dictionary , set
 
-scores:23 , 45 , 65 , 78 , 90 , 43 , 23 , 56 , 78 , 43 , 43 ]
+scores:[24 ,65 , 48 , 72 , 43, 65 , 90 ,  43 , 58 , 89 , 67 ]
 print(scores)
 
 # access score
@@ -20,7 +20,7 @@ print(scores)
 print(len(scores))
 print(scores.count(45))
 
-scores.sort  # ascending
+scores.sort # ascending
 print(scores)
 
 scores.sort(reverse=True)
@@ -42,7 +42,7 @@ print(days)
 
 for each in scores:
     print(each)
-if each < 50:
+if  each < 50:
     print(each)
         
 
