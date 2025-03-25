@@ -1,4 +1,5 @@
 def volume_cylinder(radius, height):
+    """calculate volume cylinder"""
     v = 22/7 * radius ** 2 * height
     return v
 
@@ -20,7 +21,7 @@ def volume_cone(radius, height, decimals=2):
 print(volume_cone(10.65, 32.33,  decimals=3))
 print(volume_cone(10.65, 32.33 ))
 
-
+#pip install PIL
 
 
 
