@@ -5,7 +5,7 @@ def volume_cylinder(radius, height):
 
 print(volume_cylinder(7, 10))
 print(round(volume_cylinder(10.65, 32.33)))
-
++
 
 #key - value pais arg
 
@@ -16,12 +16,14 @@ def volume_cone(radius, height, decimals=2):
     v = round(v, decimals)
     return v
 
-
+#  TODO hello, put something
 
 print(volume_cone(10.65, 32.33,  decimals=3))
 print(volume_cone(10.65, 32.33 ))
 
-#pip install PIL
+# pip install pillow
+
+#pip install --upgrade pip
 
 
 
